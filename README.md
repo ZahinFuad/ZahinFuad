@@ -1,33 +1,55 @@
-# Zahin Fuad
+# Khondaker Zahin Fuad
 
-I am an MSc Computer Science graduate focused on Artificial Intelligence, with research interests in applied machine learning, explainable AI, optimization, and intelligent decision-support systems.
+MSc Computer Science and Engineering graduate specializing in Intelligent Systems.  
+My research interests include Explainable Artificial Intelligence (XAI), deep learning, energy forecasting, reinforcement learning, evolutionary optimization, and data-driven decision-support systems.
 
-My current work explores AI methods for sustainability-focused applications, including renewable energy forecasting, agricultural optimization, and data-driven decision support.
+I am interested in developing applied AI systems for real-world forecasting, optimization, and resilient decision-making, particularly in renewable energy, sustainable agriculture, and disaster-response logistics.
 
 ## Research Interests
 
-- Applied Machine Learning
-- Explainable AI
-- Optimization
-- Time-Series Forecasting
-- AI for Sustainability
-- Decision-Support Systems
+- Explainable Artificial Intelligence (XAI)
+- Intelligent Systems
+- Deep Learning
+- Energy Forecasting
+- Reinforcement Learning
+- Evolutionary Optimization
+- Data-Driven Decision Systems
+- AI for Sustainability and Resilient Infrastructure
 
-## Publications
+## Publications & Research Work
 
-- AI-Driven Fertilizer Optimization for Sustainable Soybean Production in Brazil — IEEE STI 2025
-- Explainable Wind Power Forecasting with Deep Learning — BIM 2025 / pending publication
-- Reinforcement Learning based Self-Healing Logistics Databases for High-Availability Disaster Response Operations — IEEE STI 2025
+- **TCN-XAI: An Explainable Framework for Short-Term Wind Forecasting Using Dilated Temporal Convolutional Networks**  
+  Accepted for publication as a Taylor & Francis book chapter; presented at BIM 2025.
+
+- **AI-Based Fertilizer Optimization Using Random Forests and NSGA-II for Soybean Yield in Brazil**  
+  Presented at IEEE STI 2025.  
+  DOI: https://doi.org/10.1109/STI69347.2025.11367605
+
+- **Reinforcement Learning-Based Self-Healing Logistics Databases for Zero-Downtime Disaster Response Operations**  
+  Presented at IEEE STI 2025.  
+  DOI: https://doi.org/10.1109/STI69347.2025.11367593
 
 ## Selected Research Repositories
 
-- `ai-driven-fertilizer-optimization` — ML + NSGA-II optimization for soybean fertilizer strategy analysis
-- `wind-power-forecasting-xai` — deep learning and XAI for short-term wind power forecasting
-- `question_answer_generation` — NLP pipeline for question and answer generation
+- [`ai-driven-fertilizer-optimization`](https://github.com/ZahinFuad/ai-driven-fertilizer-optimization)  
+  Machine learning and NSGA-II optimization for fertilizer strategy analysis in soybean production.
+
+- [`wind-power-forecasting-xai`](https://github.com/ZahinFuad/wind-power-forecasting-xai)  
+  Deep learning and explainable AI for short-term wind power forecasting.
+
+- `rl-self-healing-logistics-database`  
+  Reinforcement learning approach for resilient logistics database operations.  
+  Repository coming soon.
+
+## MSc Thesis
+
+**Explainable Deep Learning for Probabilistic Multi-Horizon Solar Forecasting in Bangladesh**
+
+This thesis focuses on interpretable forecasting systems using XAI-driven temporal neural architectures for renewable energy planning.
 
 ## Technical Skills
 
-Python · scikit-learn · TensorFlow/Keras · PyTorch · XGBoost · SHAP · LIME · Pandas · NumPy · Matplotlib · Optimization · Git
+Python · scikit-learn · TensorFlow/Keras · PyTorch · XGBoost · SHAP · LIME · Pandas · NumPy · Matplotlib · Reinforcement Learning · Evolutionary Optimization · Git
 
 ## Links
 
